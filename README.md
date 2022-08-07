@@ -5,3 +5,5 @@ filech2_0 - slot 1 |
 filech2_1 - slot 2 |
 filech2_2 - slot 3 |
 THIS IS FOR CHAPTER 2! DONT LOAD IN CHAPTER 1!
+
+go to releases on the right to download the file
